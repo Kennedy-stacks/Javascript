@@ -1,1 +1,1 @@
-.
+document.getElementById("cart").innerHTML = "Your cart is empty.";
